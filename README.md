@@ -1,4 +1,4 @@
-# AD_ex4_1calculator
+# AD_ex04_1calculator
 
 # 계산기 예제 🧮
 
